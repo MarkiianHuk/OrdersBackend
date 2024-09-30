@@ -1,0 +1,4 @@
+.vs
+**/bin/**
+**/obj/**
+OrdersBackend/logs/log20240928.txt
